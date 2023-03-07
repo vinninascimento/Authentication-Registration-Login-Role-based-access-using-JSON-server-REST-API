@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": "vinni",
+      "name": "Vinicius",
+      "password": "@Gente007",
+      "email": "vini@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "teste1",
+      "name": "Teste1",
+      "password": "@Teste001",
+      "email": "teste1@gmail.com",
+      "gender": "male",
+      "role": "staff",
+      "isactive": false
+    },
+    {
+      "id": "teste2",
+      "name": "Teste2",
+      "password": "@Teste002",
+      "email": "teste2@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "teste3",
+      "name": "Teste3",
+      "password": "@Teste003",
+      "email": "teste3@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "teste4",
+      "name": "Teste4",
+      "password": "@teste004",
+      "email": "teste4@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "teste5",
+      "name": "Teste5",
+      "password": "@Teste005",
+      "email": "teste5@gmail.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "staff",
+      "name": "Staff"
+    },
+    {
+      "code": "quality",
+      "name": "Quality"
+    },
+    {
+      "code": "admin",
+      "name": "Admin"
+    }
+  ]
+}
